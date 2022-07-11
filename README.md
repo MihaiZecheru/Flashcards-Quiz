@@ -21,4 +21,6 @@ Note
 
 `.qfc` is a file extension made specifically for this project. It's simply an encoded `.txt` file.
 
+You can download this project's release [here](https://github.com/MihaiZecheru/Flashcards-Quiz/releases/download/FlashcardsQuiz/cpp_quiz.zip).
+
 For my pleasure, send me the flashcard sets (`.qfc`) you make at [my email](mihai@mzecheru.com)
