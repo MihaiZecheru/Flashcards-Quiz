@@ -23,4 +23,4 @@ Note
 
 You can download this project's release [here](https://github.com/MihaiZecheru/Flashcards-Quiz/releases/download/FlashcardsQuiz/cpp_quiz.zip).
 
-For my pleasure, send me the flashcard sets (`.qfc`) you make at [my email](mihai@mzecheru.com)
+For my pleasure, send me the flashcard sets (`.qfc`) you make at my email, `mihai@mzecheru.com`
